@@ -28,9 +28,21 @@ A palindromic number (also known as a numeral palindrome or a numeric palindrome
 
 <pre>
 A perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. 
-		For Example: 
+		For example: 
 			6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number.
 </pre>
 [Solution 3](https://github.com/rahulascii/numbers/perfect.java)
+
+
+## 4
+
+<pre>
+Pronic number is a number which is the product of two consecutive integers, that is, a number n is a product of x and (x+1).
+		For example:
+			6 is a pronic number
+			2 * 3 = 6 
+			the two consecutive integers are 2 and 3.
+</pre>
+[Solution 4](https://github.com/rahulascii/numbers/pronic.java)
 
  

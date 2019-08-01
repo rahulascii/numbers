@@ -2,7 +2,7 @@
 Solution to different numbers.
 
 
-## 1
+## 1. Armstrong number
 
 <pre>
 Armstrong number is a number in which  the sum of cubes of each digits is equal to the number itself. 
@@ -13,7 +13,7 @@ Armstrong number is a number in which  the sum of cubes of each digits is equal 
 
 
 
-## 2
+## 2. Palindromic number
 
 <pre>
 A palindromic number (also known as a numeral palindrome or a numeric palindrome) is a number that remains the same when its digits are reversed.
@@ -24,7 +24,7 @@ A palindromic number (also known as a numeral palindrome or a numeric palindrome
 
 
 
-## 3
+## 3. Perfect number
 
 <pre>
 A perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. 
@@ -34,7 +34,7 @@ A perfect number is a positive integer that is equal to the sum of its positive 
 [Solution 3](https://github.com/rahulascii/numbers/perfect.java)
 
 
-## 4
+## 4. Pronic number
 
 <pre>
 Pronic number is a number which is the product of two consecutive integers, that is, a number n is a product of x and (x+1).

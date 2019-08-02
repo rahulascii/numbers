@@ -70,6 +70,19 @@ Two numbers A and B are said to be Co-Prime or mutually prime if the Greatest Co
 [Solution 6](https://github.com/rahulascii/numbers/blob/master/co_prime.java)
 
 
+## 7 Harshad
+
+<pre>
+Harshad(Niven Number) is an integer that is divisible by the sum of its digits.
+		For example:
+			18 is a Harshad number,because the sum of the digits 1 and 8 is 9 (1 + 8 = 9), and 18 is divisible by 9 
+			(since 18 % 9 = 0)
+</pre>
+[Solution 7](https://github.com/rahulascii/numbers/blob/master/harshad.java)
+		
+
+
+
 
 
 

@@ -45,4 +45,15 @@ Pronic number is a number which is the product of two consecutive integers, that
 </pre>
 [Solution 4](https://github.com/rahulascii/numbers/blob/master/pronic.java)
 
+
+## 5 Neon number
+
+<pre>
+A number is said to be a Neon Number if the sum of digits of the square of the number is equal to the number itself.
+		For example:
+			9 is a Neon Number. 9*9=81 and 8+1=9.
+</pre>
+[Solution 3](https://github.com/rahulascii/numbers/blob/master/neon.java)
+
+
  

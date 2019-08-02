@@ -53,7 +53,26 @@ A number is said to be a Neon Number if the sum of digits of the square of the n
 		For example:
 			9 is a Neon Number. 9*9=81 and 8+1=9.
 </pre>
-[Solution 3](https://github.com/rahulascii/numbers/blob/master/neon.java)
+[Solution 5](https://github.com/rahulascii/numbers/blob/master/neon.java)
+
+
+## 6 Co-Prime number
+
+<pre>
+Two numbers A and B are said to be Co-Prime or mutually prime if the Greatest Common Divisor of them is 1.
+		For example:
+			14 and 15
+			Factors of 14 are 1,2,7,14
+			Factors of 15 are 1,3,5,15
+			So the H.C.F is 1
+			Therefore they are co-prime.
+</pre>
+[Solution 6](https://github.com/rahulascii/numbers/blob/master/co_prime.java)
+
+
+
+
+
 
 
  

@@ -70,7 +70,7 @@ Two numbers A and B are said to be Co-Prime or mutually prime if the Greatest Co
 [Solution 6](https://github.com/rahulascii/numbers/blob/master/co_prime.java)
 
 
-## 7 Harshad
+## 7 Harshad number
 
 <pre>
 Harshad(Niven Number) is an integer that is divisible by the sum of its digits.
@@ -81,14 +81,29 @@ Harshad(Niven Number) is an integer that is divisible by the sum of its digits.
 [Solution 7](https://github.com/rahulascii/numbers/blob/master/harshad.java)
 		
 		
-## 8
+## 8 Disarium number
 
 <pre>
 A number will be called DISARIUM if sum of its digits powered with their respective position is equal to the original number.
-		For example: 135 is a DISARIUM
+		For example:
+				135 is a DISARIUM
 				(Workings 11+32+53 = 135, some other DISARIUM are 89, 175, 518 etc)
 </pre>
 [Solution 8](https://github.com/rahulascii/numbers/blob/master/disarium.java)
+
+
+## 9 Special Number
+
+<pre>
+A number is said to be special number when the sum of factorial of its digits is equal to the number itself.
+		For example : 
+				145 is a Special Number as 1!+4!+5!=145. 
+</pre>
+[Solution 9](https://github.com/rahulascii/numbers/blob/master/special.java)
+
+
+
+
 
 
 

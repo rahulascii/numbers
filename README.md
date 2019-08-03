@@ -80,8 +80,15 @@ Harshad(Niven Number) is an integer that is divisible by the sum of its digits.
 </pre>
 [Solution 7](https://github.com/rahulascii/numbers/blob/master/harshad.java)
 		
+		
+## 8
 
-
+<pre>
+A number will be called DISARIUM if sum of its digits powered with their respective position is equal to the original number.
+		For example: 135 is a DISARIUM
+				(Workings 11+32+53 = 135, some other DISARIUM are 89, 175, 518 etc)
+</pre>
+[Solution 8](https://github.com/rahulascii/numbers/blob/master/disarium.java)
 
 
 

@@ -92,7 +92,7 @@ A number will be called DISARIUM if sum of its digits powered with their respect
 [Solution 8](https://github.com/rahulascii/numbers/blob/master/disarium.java)
 
 
-## 9 Special Number
+## 9 Special number
 
 <pre>
 A number is said to be special number when the sum of factorial of its digits is equal to the number itself.
@@ -100,6 +100,22 @@ A number is said to be special number when the sum of factorial of its digits is
 				145 is a Special Number as 1!+4!+5!=145. 
 </pre>
 [Solution 9](https://github.com/rahulascii/numbers/blob/master/special.java)
+
+
+## 10 ISBN number
+
+<pre>
+The International Standard Book Number (ISBN) is a unique numeric book identifier which is printed on every book. The ISBN is based upon a 10-digit code. The ISBN is legal if:
+1xdigit1 + 2xdigit2 + 3xdigit3 + 4xdigit4 + 5xdigit5 + 6xdigit6 + 7xdigit7 + 8xdigit8 + 9xdigit9 + 10xdigit10 is divisible by 11.
+		For example:1401601499 is an ISBN 
+		Sum=1×1 + 2×4 + 3×0 + 4×1 + 5×6 + 6×0 + 7×1 + 8×4 + 9×9 + 10×9 = 253
+		which is divisible by 11.
+</pre>
+[Solution 10](https://github.com/rahulascii/numbers/blob/master/isbn.java)
+
+
+		
+
 
 
 

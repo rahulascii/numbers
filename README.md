@@ -133,6 +133,15 @@ An automorphic number is a number which is present in the last digit(s) of its s
 </pre>
 [Solution 12](https://github.com/rahulascii/numbers/blob/master/automorphic.java)
 
+
+## 13 Prime Palindrome
+
+<pre>
+A prime palindrome integer is a positive integer (without leading zeros) which is prime as well as a palindrome.
+		For example : 2, 3, 5, 7, 11, 101, 131, 151, 181, 191, 313, 353, 373, etc.
+</pre>
+[Solution 13](https://github.com/rahulascii/numbers/blob/master/prime_palindrome.java)
+
 		
 
 

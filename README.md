@@ -114,6 +114,25 @@ The International Standard Book Number (ISBN) is a unique numeric book identifie
 [Solution 10](https://github.com/rahulascii/numbers/blob/master/isbn.java)
 
 
+## 11 Emirp  number
+
+<pre>
+Emirp  number is a number which is prime when read backwards and frontwards.
+		For Example : 13 is and emirp number
+				13 and 31 both are prime numbers.
+</pre>
+[Solution 11](https://github.com/rahulascii/numbers/blob/master/emirp.java)
+
+
+## 12 Automorphic number
+
+<pre>
+An automorphic number is a number which is present in the last digit(s) of its square.
+		For example: 25 is an automorphic number.
+		        	Its square is 625 and 25 is present as the last digits.
+</pre>
+[Solution 12](https://github.com/rahulascii/numbers/blob/master/automorphic.java)
+
 		
 
 
